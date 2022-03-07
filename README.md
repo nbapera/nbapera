@@ -1,6 +1,6 @@
 ### Hi 👋
 
-- 🌱 Currently learning Angular and .NET
+- 🌱 Currently learning Vue.js and golang
 - 📫 Reach me through my email -> pera@waifu.club
 - ⚡ YouTube -> https://www.youtube.com/channel/UCIrqTim0T0HBlW8dDRxN5VA
 
